@@ -1,0 +1,29 @@
+_repo: Sais-tu--l-mentaires-de-m-moire_34800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Juhlin, Victor
+    gutenberg_agent_id: '37240'
+    url: http://www.gutenberg.org/2009/agents/37240
+description: ''
+gutenberg_bookshelf:
+- FR Education et Enseignement
+- FR Poésie
+gutenberg_issued: '2010-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34800'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry'
+- !lcsh 'Recitations (French)'
+- !lcc 'PQ'
+title: "Sais-tu? Oui.--Retiens. Non.--Apprends.\r\nRecueil de poésies simples et faciles\
+  \ destinées à servir d'exercices élémentaires de mémoire"
+url: http://www.gutenberg.org/ebooks/34800
